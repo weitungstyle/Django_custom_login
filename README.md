@@ -46,8 +46,8 @@ Watching for file changes with StatReloader
 
 5. Now, You can use a web browser or Postman application to access API through the following address:
    (user1 to user3 have been registed.)
-   http://127.0.0.1:8000/users/signup/
-   http://127.0.0.1:8000/users/signin/
+  - http://127.0.0.1:8000/users/signup/
+  - http://127.0.0.1:8000/users/signin/
 
 ### Usage
 
